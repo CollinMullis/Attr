@@ -10,7 +10,7 @@ public class Attr {
 	private Object value = null;
 	
 	/* ---------------------------------------------------------------------- */
-
+	// These Attr constructors are all Overloading each other, because they all have the same name. 
 	// One-parameter constructor; I know the name, I don't know the value
 	public Attr(String name) {
 		this.name = name;
