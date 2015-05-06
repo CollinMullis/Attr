@@ -25,6 +25,8 @@ public class ScreenColor {
 		  		return 0x00cc00;
 		  else if (foo.equals("yellow"))
 			  	return 0x999900;
+		  else if (foo.equals("crimson"))
+		  		return 0xFE2E2E;
 		  
 		  // We have to return something; this isn't really the right way to do it!
 		  return -1;
