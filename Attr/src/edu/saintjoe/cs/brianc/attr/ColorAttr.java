@@ -37,6 +37,7 @@ package edu.saintjoe.cs.brianc.attr;
 		    }
 
 		// THIS is an example of method overriding!!!!!!!!!
+		// This is my example of overriding too!
 		public Object setValue(Object newValue)  {
 			    // do superclass stuff first
 			    Object retval = super.setValue(newValue);
